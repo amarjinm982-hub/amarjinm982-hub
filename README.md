@@ -1,46 +1,108 @@
-<h1 align="center">Hi 👋, I'm Amarjin M</h1>
-<h3 align="center">Aspiring Software Developer from Kerala, India 🇮🇳</h3>
+<div align="center">
+
+# Hey there! 👋 I'm Amarjin M
+
+### 💻 Aspiring Software Developer
+
+BCA Student | JavaScript Learner | Tech Enthusiast
+
+📍 Kerala, India
 
 ---
 
-### 👨‍💻 About Me
+### ✨ A Little About Me
+
+I'm a passionate learner who loves coding, solving problems,
+and exploring the world of technology.
+
+I believe every expert was once a beginner.
+Currently building my programming foundation, one step at a time.
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 Pursuing BCA at JAIN Online
 - 💻 Currently learning JavaScript
-- 🌱 Exploring Python and Backend Development
 - 🧠 Practising problem-solving and LeetCode
-- 🚀 Learning by building real-world projects
-- 🎯 Goal: Become a Software Developer
+- 🌱 Improving my coding skills every day
+- 🚀 Interested in Web Development
+- 🎯 Goal: Become a professional Software Developer
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,github" />
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarjinm982-hub&show_icons=true&theme=tokyonight)
+</div>
 
 ---
 
-### 🔥 GitHub Streak
+## 📚 Currently Learning
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amarjinm982-hub&theme=tokyonight)
+```javascript
+const myJourney = {
+    currentlyLearning: "JavaScript",
+    practicing: "Problem Solving",
+    challenge: "LeetCode",
+    goal: "Software Developer",
+    mindset: "Never Stop Learning"
+};
+```
 
 ---
 
-### 🌐 Connect With Me
+## 📊 GitHub Statistics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amarjin-m-071aa3279)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=amarjinm982-hub&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjinm982-hub&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=amarjinm982-hub&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Learning • Building • Improving ⭐
-</p>
+## 🚀 Featured Projects
+
+Currently learning and building my skills.
+
+Exciting projects coming soon! 🚧
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amarjin-m-071aa3279">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 A Thought I Believe In
+
+*"First, solve the problem. Then, write the code."*
+
+### ⭐ Small Steps. Big Dreams.
+
+Learning • Building • Improving
+
+</div>
